@@ -6,7 +6,7 @@
 
 ## 📚 Sobre
 
-* Este é o Back-end do GoBarber, pré-requisito para o funcionamento da aplicação Web e Mobile.
+* Este é o back-end da aplicação GoBarber, pré-requisito para o funcionamento da aplicação Web e Mobile.
 
 &nbsp;
 
