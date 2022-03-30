@@ -28,6 +28,7 @@
 * [PostgreSQL](https://www.postgresql.org/)
 * [Node JS](https://nodejs.org/en/)
 * [Docker](https://www.docker.com/)
+* [Insomnia](https://insomnia.rest/)
 
 &nbsp;
 
