@@ -53,4 +53,4 @@ $ yarn dev:server
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-backend/blob/master/LICENSE) para obter mais detalhes.
