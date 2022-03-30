@@ -39,6 +39,9 @@ $ cd gobarber-backend
 # Instale as dependências
 $ yarn
 
+# Rodar as migrations:
+$ yarn typeorm migration:run
+
 # Inicie a aplicação
 $ yarn dev:server
 
