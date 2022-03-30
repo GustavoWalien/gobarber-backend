@@ -8,8 +8,6 @@
 
 * Este é o back-end da aplicação GoBarber, pré-requisito para o funcionamento da aplicação Web e Mobile.
 
-&nbsp;
-
 ## 💻 Funcionalidades
 
 * Recuperar senha do usuário / profissional.
@@ -19,8 +17,6 @@
 * Agendamento de horário.
 * Atualizar perfil.
 
-&nbsp;
-
 ## 🛠️ Tecnologias ultilizadas
 
 * [Mongo DB](https://www.mongodb.com/pt-br)
@@ -29,8 +25,6 @@
 * [Node JS](https://nodejs.org/en/)
 * [Docker](https://www.docker.com/)
 * [Insomnia](https://insomnia.rest/)
-
-&nbsp;
 
 ## ⚙️ Instalação
 ```
@@ -49,8 +43,10 @@ $ yarn
 $ yarn dev:server
 
 ```
+## 🖥️ Projetos relacionados
 
-&nbsp;
+* [Projeto Web](https://github.com/GustavoWalien/gobarber-web)
+* [Projeto Mobile](https://github.com/GustavoWalien/gobarber-mobile)
 
 ## 📝 Licença
 
