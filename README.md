@@ -10,7 +10,7 @@
 
 * Recuperar senha do usuário / profissional.
 * Criar agendamento.
-* Listar Agendamentos.
+* Listar agendamentos.
 * Listar prestadores.
 * Agendamento de horário.
 * Atualizar perfil.
